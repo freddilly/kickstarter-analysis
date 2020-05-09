@@ -1,3 +1,3 @@
 # An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends
-Hello
+Performing analysis on Kickstarter data to uncover trends for Louise's campaign.
+![Line Chart for Louise]
