@@ -1,3 +1,3 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends for Louise's campaign.
-! [](images/Outcomes_based_on_Launch_Date.png)
+! [Line](images/Outcomes_based_on_Launch_Date.png)
