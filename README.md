@@ -9,3 +9,5 @@ For this analysis, I created two separate charts. The first, charts the likeliho
 
 This chart above details a kickstarter campaign's chance of success based on the campaign's financing goals. Generally, we can see that a campaigns chance of success is inversely related to the amount of money it aims to raise. This makes sense, as higher fundraising goals are more difficult to reach. One peculiarity in the data that is worth noting is that campaigns in the goal range of $35,000 to $45,000 had a very high rate of success (about 2/3 were success). This seems to go against the conclusions of the rest of the chart. The fact of the matter is there are only a handful of data points in this range, so these results are probably unreliable. 
 
+![](https://github.com/freddilly/kickstarter-analysis/blob/master/Images/Theatre_Outcomes_Based_on_Launch_Date.png)
+
