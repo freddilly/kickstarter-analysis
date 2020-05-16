@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends for Louise's campaign.
---
+
 ![](https://github.com/freddilly/kickstarter-analysis/blob/master/Images/Parent_Category%20_Outcomes.png)
 ### Challenge 
 For this analysis, I created two separate charts. The first, charts the likelihood of success, failure, or cancellation of a kickstarter campaign for plays based on funding goals. The second charts the likelihood of success, failure, cancellation, or being live for play kickstarters based on the start date of the campaign. Both charts are provided below with further analysis.
@@ -12,3 +12,6 @@ This chart above details a kickstarter campaign's chance of success based on the
 ![](https://github.com/freddilly/kickstarter-analysis/blob/master/Images/Theatre_Outcomes_Based_on_Launch_Date.png)
 
 This second chart plots the relationship between kickstarter campaign's outcomes relative to what month they were started in. We can see from the chart that May was the month with largest number of successful kickstarter campaign launches (followed by June). From this graph, we can also see that December is the month with the lowest number of successful campaigns. From this line chart, we are able to see that there is a higher concentration of successful kickstarter campaigns in the late spring and summer months, as opposed to beginning and end of the year. 
+
+In order to further analyze the best method for Louise to raise money for her kickstarter, I would suggest adding two new analyses. This first would be to include a chart detailing the relationship between a campaign's chance of success and the amount of time between the campaign's start date and the start of production. This would be of interest because it would allow Louise to see whether the production being closer in time would potentially draw more interest to her campaign.
+The second would be a chart comparing a campaign's length to its chance of success. This would be of interest as it would allow Louise to see the ideal length of a potential campaign. 
