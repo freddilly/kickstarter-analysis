@@ -11,3 +11,4 @@ This chart above details a kickstarter campaign's chance of success based on the
 
 ![](https://github.com/freddilly/kickstarter-analysis/blob/master/Images/Theatre_Outcomes_Based_on_Launch_Date.png)
 
+This second chart plots the relationship between kickstarter campaign's outcomes relative to what month they were started in. We can see from the chart that May was the month with largest number of successful kickstarter campaign launches (followed by June). From this graph, we can also see that December is the month with the lowest number of successful campaigns. From this line chart, we are able to see that there is a higher concentration of successful kickstarter campaigns in the late spring and summer months, as opposed to beginning and end of the year. 
