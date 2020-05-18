@@ -3,7 +3,7 @@ Performing analysis on Kickstarter data to uncover trends for Louise's campaign.
 
 
 ### Challenge 
-For this analysis, I created three separate charts. The first charts the percentage of successful, failed, and canceled kickstarter campaigns for plays based on funding goals. The second charts the number of successful, failed, canceled, and live play kickstarters according to the start date of the campaign. Both charts are provided below with further analysis. The final chart details the outcomes of kickstarter campaigns based on parent category. 
+For this analysis, I created three separate charts. The first charts the percentage of successful, failed, and canceled kickstarter campaigns for plays based on funding goals. The second charts the number of successful, failed, canceled, and live play kickstarters according to the start date of the campaign. The final chart details the outcomes of kickstarter campaigns based on parent category. All charts are provided below with further analysis.
 
 ![](https://github.com/freddilly/kickstarter-analysis/blob/master/Images/Outcomes_Based_on_Goals.png)
 
@@ -15,7 +15,7 @@ This second chart plots the relationship between kickstarter campaign outcomes r
 
 ![](https://github.com/freddilly/kickstarter-analysis/blob/master/Images/Parent_Category%20_Outcomes.png)
 
-This final chart plots each of the different categories of kickstarter campaigns and provides a breakdown of the number of outcomes in each parent category. From this chart, we can see that theater is the largest parent category. From the bar graph, we can see that over 500 theater kickstarter campaigns were successful. This means that theater campaigns had a success rate of approximately 56%. This chart thus demonstrates that theater is one of the largest and most successful categories of kickstarter campaigns. 
+This final chart plots each of the different categories of kickstarter campaigns and provides a breakdown of the number of outcomes in each parent category. From this chart, we can see that theater is the largest parent category. From the bar graph, we can also see that over 500 theater kickstarter campaigns were successful. This means that theater campaigns had a success rate of approximately 56%. This chart thus demonstrates that theater is the largest and one of the most successful categories of kickstarter campaigns. 
 
 In order to further analyze the best method for Louise to raise money for her kickstarter, I would suggest adding two new analyses. The first would be to include a chart detailing the relationship between campaign outcomes and the amount of time between the campaign's start date and the start of production. This would be of interest because it would allow Louise to see whether a shorter time to production would potentially draw more interest to her campaign as opposed to one where the start of production is not in the immediate future.
 The second would be a chart comparing a campaign's length to its chance of success. This would be of interest as it would allow Louise to see the ideal length of a potential campaign. 
